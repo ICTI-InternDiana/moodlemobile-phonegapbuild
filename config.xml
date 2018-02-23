@@ -4,15 +4,15 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.moodlemobiletest"
         versionCode = "2014"
-        version   = "1.1">
-    <name>D Moodle Mobiletest</name>
+        version   = "0.1">
+    <name>Just English Moodle App</name>
 
     <description>
-        Moodle Mobile official app
+        Just English Moodle Application
     </description>
 
-    <author href="http://lms.english.com.my" email="info@ictinteractive.com">
-        ICTInteractive
+    <author href="https://lms.english.com.my" email="info@ictinteractive.com">
+        ICT Interactive SDN BHD
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
