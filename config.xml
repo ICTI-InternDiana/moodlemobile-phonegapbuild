@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.moodlemobiletest"
         versionCode = "2014"
-        version   = "0.1">
+        version   = "1.1">
     <name>Just English Moodle App</name>
 
     <description>
