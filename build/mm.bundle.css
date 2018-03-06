@@ -3773,7 +3773,7 @@ a.subdued {
     color: #b284d6;
     font-size: 21px; }
     .action-sheet .button:hover {
-      color: #0064d2; }
+      color: #b284d6; }
     .action-sheet .button.destructive {
       color: #ff3b30; }
       .action-sheet .button.destructive:hover {
@@ -3781,7 +3781,7 @@ a.subdued {
   .action-sheet .button.active, .action-sheet .button.activated {
     box-shadow: none;
     border-color: #d1d3d6;
-    color: #0064d2;
+    color: #b284d6;
     background: #e4e5e7; }
 
 .action-sheet-has-icons .icon {
@@ -3941,7 +3941,7 @@ a.subdued {
       background-image: linear-gradient(180deg, #b2b2b2, #b2b2b2 50%, transparent 50%); }
   .bar.bar-positive {
     border-color: #004c9f;
-    background-color: #0064d2;
+    background-color: #b284d6;
     background-image: linear-gradient(0deg, #004c9f, #004c9f 50%, transparent 50%);
     color: #fff; }
     .bar.bar-positive .title {
